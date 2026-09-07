@@ -1,2 +1,2 @@
 # Fintura
-Finance controll App Android
+Finance control App Android
